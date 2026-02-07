@@ -186,5 +186,5 @@ This project is open source and available for educational purposes.
 
 ---
 
-**Author**: Cloud Engineer  
+**Author**: Ajay Mall
 **Last Updated**: February 2026
