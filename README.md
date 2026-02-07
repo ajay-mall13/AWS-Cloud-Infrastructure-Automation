@@ -1,6 +1,7 @@
 # Automated AWS Infrastructure Deployment using Terraform
 
 ![AWS Infrastructure Diagram](AWS%20Terraform%20Infra.jpg)
+<img width="925" height="636" alt="Screenshot 2026-02-07 212903" src="https://github.com/user-attachments/assets/d4f7189b-3c1a-4807-ab9c-999ebb7c161a" />
 
 ## 📋 Overview
 
